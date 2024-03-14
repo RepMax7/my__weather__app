@@ -55,7 +55,7 @@ const Forecast = ({ data }) => {
                   <label>{item.main.pressure}hPA</label>
                 </div>
                 <div className="daily-details-grid-item">
-                  <label>humidity</label>
+                  <label>Humidity</label>
                   <label>{item.main.humidity}%</label>
                 </div>
                 <div className="daily-details-grid-item">
